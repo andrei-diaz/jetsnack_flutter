@@ -1,0 +1,19 @@
+{
+  "collections": [
+    {
+      "id": 1,
+      "name": "Android's picks",
+      "type": "highlight",
+      "snackIds": [1,2,3,4,5,6,7,8,9,10,11,12,13]
+    },
+    {
+      "id": 2,
+      "name": "Popular on Jetsnack",
+      "type": "normal",
+      "snackIds": [14,15,16,17,18]
+    },
+    { "id": 3, "name": "WFH favourites", "type": "highlight", "snackIds": [1,2,3,4,5,6,7,8,9,10,11,12,13] },
+    { "id": 4, "name": "Newly Added", "type": "normal", "snackIds": [14,15,16,17,18] },
+    { "id": 5, "name": "Only on Jetsnack", "type": "highlight", "snackIds": [1,2,3,4,5,6,7,8,9,10,11,12,13] }
+  ]
+}

@@ -1,0 +1,29 @@
+name: jetsnack_flutter
+description: "Jetsnack hybrid (Flutter) implementation"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  go_router: ^14.2.6
+  flutter_riverpod: ^2.5.1
+  http: ^1.2.2
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mock/snacks.json
+    - assets/mock/collections.json
+    - assets/images/

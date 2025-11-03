@@ -12,4 +12,4 @@ Clon de la app Jetsnack, implementado en Flutter. Presenta un catálogo de snack
 Proyecto educativo para practicar Flutter/Dart replicando la experiencia de Jetsnack en el ecosistema Flutter.
 
 ## Estado
-En desarrollo; el alcance y funcionalidades pueden cambiar.
+Clon completo
